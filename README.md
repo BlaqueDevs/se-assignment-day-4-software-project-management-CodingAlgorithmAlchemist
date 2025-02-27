@@ -5,51 +5,112 @@
 
 Importance of Timely Delivery:
 <ul>
-Keeps the Project on Schedule – Ensures milestones and deliverables are met without unnecessary delays.
-Maintains Stakeholder Confidence – Late deliveries can reduce trust and impact future opportunities.
-Prevents Cost Overruns – Delays often lead to additional costs.
-Ensures Market Competitiveness – Software projects are often time-sensitive, especially in dynamic industries.
+<li>Keeps the Project on Schedule – Ensures milestones and deliverables are met without unnecessary delays.</li>
+<li>Maintains Stakeholder Confidence – Late deliveries can reduce trust and impact future opportunities.</li>
+<li>Prevents Cost Overruns – Delays often lead to additional costs.</li>
+<li>Ensures Market Competitiveness – Software projects are often time-sensitive, especially in dynamic industries.</li>
 </ul>
 
 
 Strategies to Meet Deadlines:
 <ul>
-Develop a Clear Project Schedule – Use tools like Gantt charts.
-Set Realistic Milestones – Break down the project into achievable phases.
-Allocate Resources Efficiently – Prevent bottlenecks in development and testing.
-Monitor Progress Continuously – Use KPIs such as Schedule Variance (SV) to track project status.
-Implement Agile Methodologies – When flexibility and quick iteration are required.
-Manage Risks Proactively – Identify potential delays early and mitigate them.
+<li>Develop a Clear Project Schedule – Use tools like Gantt charts.</li>
+<li>Set Realistic Milestones – Break down the project into achievable phases.</li>
+<li>Allocate Resources Efficiently – Prevent bottlenecks in development and testing.</li>
+<li>Monitor Progress Continuously – Use KPIs such as Schedule Variance (SV) to track project status.</li>
+<li>Implement Agile Methodologies – When flexibility and quick iteration are required.</li>
+<li>Manage Risks Proactively – Identify potential delays early and mitigate them.</li>
 </ul>
 
 ## 2. How does effective cost control contribute to the success of a software project? What strategies can be used to prevent budget overruns?
 
 Contribution of Cost Control:
 <ul>
-Prevents Financial Losses – Helps the project stay within budget constraints.
-Ensures Resource Efficiency – Avoids waste and ensures optimal use of funds.
-Increases Profitability – Especially important for commercial software projects.
-Enhances Stakeholder Satisfaction – Investors and sponsors prefer well-managed financials.
+<li>Prevents Financial Losses – Helps the project stay within budget constraints.</li>
+<li>Ensures Resource Efficiency – Avoids waste and ensures optimal use of funds.</li>
+<li>Increases Profitability – Especially important for commercial software projects.</li>
+<li>Enhances Stakeholder Satisfaction – Investors and sponsors prefer well-managed financials.</li>
 </ul>
 
 
-Strategies to Prevent Budget Overruns:h
+Strategies to Prevent Budget Overruns:
 <ul>
-Accurate Cost Estimation – Include all potential expenses.
-Continuous Monitoring – Use tools like Earned Value Management (EVM).
-Risk Management Planning – Address financial risks early.
-Regular Financial Audits – Check actual spending against the budget.
-Scope Management – Prevent unnecessary feature creep that inflates costs.
+<li>Accurate Cost Estimation – Include all potential expenses.</li>
+<li>Continuous Monitoring – Use tools like Earned Value Management (EVM).</li>
+<li>Risk Management Planning – Address financial risks early.</li>
+<li>Regular Financial Audits – Check actual spending against the budget.</li>
+<li>Scope Management – Prevent unnecessary feature creep that inflates costs.</li>
 </ul>
+
 ## 3. Compare and contrast Agile and Waterfall methodologies. What are the main advantages and disadvantages of each?
+
+### **Agile Methodology**
 <ul>
-<li>Avoids building unnecessary features.</li>
-<li>Ensures alignment with market demand.</li>
-<li>Improves investment opportunities by making the pitch compelling.</li>
+  <li><strong>Definition:</strong> Agile is an iterative and incremental approach to software development, emphasizing flexibility, collaboration, and continuous improvement.</li>
+  
+  <li><strong>Advantages:</strong>
+    <ul>
+      <li>Highly flexible and adaptive to changing requirements.</li>
+      <li>Encourages collaboration between cross-functional teams.</li>
+      <li>Delivers working software in short cycles (sprints), ensuring continuous feedback.</li>
+      <li>Reduces risks by identifying issues early in the development process.</li>
+      <li>Enhances customer satisfaction through regular updates and stakeholder involvement.</li>
+    </ul>
+  </li>
+
+  <li><strong>Disadvantages:</strong>
+    <ul>
+      <li>Requires significant collaboration and commitment from the entire team.</li>
+      <li>Lack of detailed documentation may create confusion.</li>
+      <li>Can be challenging for large-scale projects with strict compliance requirements.</li>
+      <li>Uncertain timeline and budget due to evolving requirements.</li>
+      <li>Not ideal for teams unfamiliar with Agile principles.</li>
+    </ul>
+  </li>
 </ul>
+
+### **Waterfall Methodology**
+<ul>
+  <li><strong>Definition:</strong> Waterfall is a linear and sequential approach to software development, where each phase is completed before moving to the next.</li>
+
+  <li><strong>Advantages:</strong>
+    <ul>
+      <li>Clear structure with well-defined stages (Requirements, Design, Implementation, Testing, Deployment, Maintenance).</li>
+      <li>Detailed documentation ensures clarity and consistency.</li>
+      <li>Predictable timeline and budget due to upfront planning.</li>
+      <li>Ideal for projects with fixed requirements and minimal expected changes.</li>
+      <li>Works well for regulatory and compliance-heavy projects.</li>
+    </ul>
+  </li>
+
+  <li><strong>Disadvantages:</strong>
+    <ul>
+      <li>Rigid structure makes adapting to changes difficult.</li>
+      <li>High risk of late discovery of critical issues.</li>
+      <li>Testing occurs at the end, increasing chances of defects going unnoticed for long periods.</li>
+      <li>Customer feedback is only incorporated after the full project is completed.</li>
+      <li>Long development cycles may lead to outdated requirements by the time of delivery.</li>
+    </ul>
+  </li>
+</ul>
+
+
+
+
+
+
+**Key Differences**
+<ul>
+  <li><strong>Flexibility:</strong> Agile is highly flexible, while Waterfall is rigid.</li>
+  <li><strong>Delivery Approach:</strong> Agile delivers in iterations, while Waterfall delivers at the end.</li>
+  <li><strong>Customer Involvement:</strong> Agile involves customers frequently; Waterfall involves them mainly at the beginning and end.</li>
+  <li><strong>Documentation:</strong> Waterfall relies heavily on documentation; Agile prioritizes working software.</li>
+  <li><strong>Risk Management:</strong> Agile mitigates risks by frequent testing; Waterfall may face late-stage risks.</li>
+</ul>
+
 ## 4. In what types of projects might Agile be more beneficial than Waterfall, and vice versa? Can you provide examples of each?
 
-Agile is more beneficial 
+**Agile is more beneficial** 
 <ul>
 <li>Requirements are unclear or subject to change.</li>
 <li>Frequent iterations and feedback loops are needed.</li>
